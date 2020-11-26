@@ -1,8 +1,8 @@
 ###Personal information
-####Name Muxiaoyu
-####College Yantai University
-####Email: xiaoyu_fish@outlook.com
-####Address: China
+####Name ***
+####College ***
+####Email: ***
+####Address: ***
 
 ###Research Direction
 - Computer Science
